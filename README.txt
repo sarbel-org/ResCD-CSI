@@ -43,8 +43,9 @@ The full class list is provided in data.yaml.
 -------------------------------------------
 Getting Started
 -------------------------------------------
-Download the repository:
-git clone [https://github.com/Half-Note/ResCD-CSI.git]
+Download the github and dataset repository:
+Dataset: http://dx.doi.org/10.6084/m9.figshare.30325087
+git clone [https://github.com/sarbel-org/ResCD-CSI]
 
 In the main folder, you will find YOLO_split.zip, a ready-made classified dataset with 75/15/15 split for train, val, and test. If you want to use this, move to Step 2.
 
@@ -115,3 +116,4 @@ Email: smirzabeigi@esf.edu (please ref. to website for latest info)
 GitHub: https://sarbel.org
 
 © 2025 SARBEL — Released under Creative Commons Attribution 4.0 License.
+
