@@ -113,7 +113,9 @@ Contact
 For questions or collaborations:
 Dr. Shayan Mirzabeigi
 Email: smirzabeigi@esf.edu (please ref. to website for latest info)
-GitHub: https://sarbel.org
+Website: https://sarbel.org
+Github: https://github.com/sarbel-org/
 
 © 2025 SARBEL — Released under Creative Commons Attribution 4.0 License.
+
 
